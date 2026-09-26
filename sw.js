@@ -1,5 +1,5 @@
 /* Psych Atlas service worker: offline-first app shell and knowledge base. */
-const VERSION = "1.0.0";
+const VERSION = "1.1.0";
 const CACHE = 'psyatlas-' + VERSION;
 const ASSETS = ['./', './index.html', './kb.js', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'];
 
